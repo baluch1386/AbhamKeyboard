@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کیبورد ابهام</string>
+    <string name="intro_title">کیبورد ابهام</string>
+    <string name="intro_subtitle">یک کیبورد فارسی و انگلیسی ساده با امضای شخصی</string>
+    <string name="intro_instructions">برای استفاده:\n۱) به تنظیمات گوشی برو\n۲) زبان و کیبورد را باز کن\n۳) «کیبورد ابهام» را فعال کن\n۴) آن را به‌عنوان کیبورد پیش‌فرض انتخاب کن</string>
+    <string name="open_settings_button">باز کردن تنظیمات کیبورد</string>
+</resources>

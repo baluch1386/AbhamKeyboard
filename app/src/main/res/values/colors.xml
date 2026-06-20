@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#1A1A2E</color>
+    <color name="accent_gold">#D4A857</color>
+    <color name="key_background">#2C2C44</color>
+    <color name="key_pressed">#D4A857</color>
+    <color name="text_light">#F5F5F5</color>
+    <color name="text_on_accent">#1A1A2E</color>
+</resources>
